@@ -1,0 +1,13 @@
+:root {
+    --toastify-color-success: #09a40e;
+    --toastify-toast-width: 700px;
+    --toastify-text-color-light: #0e101c;
+}
+
+.Toastify__toast-body {
+    width: 500px;
+}
+
+.form-gender {
+    color: white;
+}
